@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">L\'application qui fait boum</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="imageUploaded">Image ajoutée</string>
+    <string name="filter_dialog_title">Filtrer</string>
+    <string name="bombitbutton">Bomb It !</string>
+    <string name="bouton_bomb">Renvoyer la bombe</string>
+    <string name="bombedText">Vous avez été bombé par </string>
+    <string name="target">cible</string>
+    <string name="source">attaquant</string>
+    <string name="resendBomb">Renvoyer la bombe</string>
+    <string name="nouserresponse">Pas de réponse de l\'utilisateur</string>
+    <string name="userbusy">L\'utilisateur est occupé</string>
+    <string name="cantbombme">Vous ne pouvez pas vous bomber vous même !</string>
+    <string name="bombexplosed">La bombe a explosé !</string>
+    <string name="win">Gagné !</string>
+    <string name="lost">Perdu !</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">The bombing application !</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageUploaded">Image added</string>
+    <string name="filter_dialog_title">Filter</string>
+    <string name="bombitbutton">Bomb It !</string>
+    <string name="bouton_bomb">Send bomb</string>
+    <string name="bombedText">You get bombed by </string>
+    <string name="target">Target</string>
+    <string name="source">Source</string>
+    <string name="resendBomb">Send back</string>
+    <string name="nouserresponse">No response</string>
+    <string name="userbusy">User is busy</string>
+    <string name="cantbombme">You cannot bomb yourself</string>
+    <string name="bombexplosed">The bomb explodes</string>
+    <string name="win">You win !</string>
+    <string name="lost">You loose !</string>
+</resources>
